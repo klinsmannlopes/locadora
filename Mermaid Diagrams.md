@@ -1,6 +1,6 @@
 # Mermaid Diagrams - Guia de Referência Rápida
 
-Este documento contém exemplos de todos os tipos de diagramas Mermaid úteis para documentação técnica.
+Este documento contém exemplos de todos os tipos de diagramas Mermaid úteis para documentação técnica(utils).
 
 ---
 

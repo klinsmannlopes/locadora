@@ -2,8 +2,8 @@
 	"nodes":[
 		{"id":"d3b5c77d349554bd","type":"text","text":"Teste ney","x":-920,"y":-200,"width":250,"height":60},
 		{"id":"d9a6466dde119d44","type":"file","file":"images/117-1171017_spring-logo-spring-framework-logo-removebg-preview.png","x":-440,"y":-140,"width":220,"height":230},
-		{"id":"96b207baed3540f1","type":"file","file":"Bem-vindo.md","x":-1320,"y":-60,"width":400,"height":400},
-		{"id":"b295327a01ff6db1","type":"text","text":"Teste git","x":-690,"y":110,"width":250,"height":60}
+		{"id":"b295327a01ff6db1","type":"text","text":"Teste git","x":-690,"y":110,"width":250,"height":60},
+		{"id":"96b207baed3540f1","type":"file","file":"Bem-vindo.md","x":-1340,"y":-90,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"67f7ecea93b9b970","fromNode":"d3b5c77d349554bd","fromSide":"right","toNode":"d9a6466dde119d44","toSide":"left"},
